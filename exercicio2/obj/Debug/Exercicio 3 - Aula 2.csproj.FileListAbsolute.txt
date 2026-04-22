@@ -1,0 +1,30 @@
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\bin\Debug\Exercicio 3 - Aula 2.exe.config
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\bin\Debug\Exercicio 3 - Aula 2.exe
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\bin\Debug\Exercicio 3 - Aula 2.pdb
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\obj\Debug\Exercicio_3___Aula_2.Form1.resources
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\obj\Debug\Exercicio_3___Aula_2.Properties.Resources.resources
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.csproj.GenerateResource.cache
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.exe
+C:\Users\ALUNO\source\repos\Exercicio 3 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.pdb
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\bin\Debug\Exercicio 3 - Aula 2.exe.config
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\bin\Debug\Exercicio 3 - Aula 2.exe
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\bin\Debug\Exercicio 3 - Aula 2.pdb
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\obj\Debug\Exercicio_3___Aula_2.Form1.resources
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\obj\Debug\Exercicio_3___Aula_2.Properties.Resources.resources
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.csproj.GenerateResource.cache
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.exe
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 2 - Aula 2\obj\Debug\Exercicio 3 - Aula 2.pdb
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\bin\Debug\Exercicio 3 - Aula 2.exe.config
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\bin\Debug\Exercicio 3 - Aula 2.exe
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\bin\Debug\Exercicio 3 - Aula 2.pdb
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\obj\Debug\Exercicio 3 - Aula 2.csproj.AssemblyReference.cache
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\obj\Debug\Exercicio_3___Aula_2.Form1.resources
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\obj\Debug\Exercicio_3___Aula_2.Properties.Resources.resources
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\obj\Debug\Exercicio 3 - Aula 2.csproj.GenerateResource.cache
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\obj\Debug\Exercicio 3 - Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\obj\Debug\Exercicio 3 - Aula 2.exe
+C:\Users\joaog\OneDrive\Documentos\C# SENAI\atividades c#\exercicio2\obj\Debug\Exercicio 3 - Aula 2.pdb

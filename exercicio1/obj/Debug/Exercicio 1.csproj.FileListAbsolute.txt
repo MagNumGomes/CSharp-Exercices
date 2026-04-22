@@ -1,0 +1,20 @@
+C:\Users\ALUNO\source\repos\Exercicio 1\bin\Debug\Exercicio 1.exe.config
+C:\Users\ALUNO\source\repos\Exercicio 1\bin\Debug\Exercicio 1.exe
+C:\Users\ALUNO\source\repos\Exercicio 1\bin\Debug\Exercicio 1.pdb
+C:\Users\ALUNO\source\repos\Exercicio 1\obj\Debug\Exercicio 1.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\Exercicio 1\obj\Debug\Exercicio_1.Form1.resources
+C:\Users\ALUNO\source\repos\Exercicio 1\obj\Debug\Exercicio_1.Properties.Resources.resources
+C:\Users\ALUNO\source\repos\Exercicio 1\obj\Debug\Exercicio 1.csproj.GenerateResource.cache
+C:\Users\ALUNO\source\repos\Exercicio 1\obj\Debug\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Exercicio 1\obj\Debug\Exercicio 1.exe
+C:\Users\ALUNO\source\repos\Exercicio 1\obj\Debug\Exercicio 1.pdb
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\bin\Debug\Exercicio 1.exe.config
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\bin\Debug\Exercicio 1.exe
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\bin\Debug\Exercicio 1.pdb
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\obj\Debug\Exercicio 1.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\obj\Debug\Exercicio_1.frmMes.resources
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\obj\Debug\Exercicio_1.Properties.Resources.resources
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\obj\Debug\Exercicio 1.csproj.GenerateResource.cache
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\obj\Debug\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\obj\Debug\Exercicio 1.exe
+C:\Users\livia\OneDrive\Senai\SENAI\Exercicio 1 - Aula 2\obj\Debug\Exercicio 1.pdb

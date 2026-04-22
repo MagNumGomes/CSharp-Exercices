@@ -1,0 +1,10 @@
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\bin\Debug\Exercicio 7 - Aula 2.exe.config
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\bin\Debug\Exercicio 7 - Aula 2.exe
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\bin\Debug\Exercicio 7 - Aula 2.pdb
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\obj\Debug\Exercicio 7 - Aula 2.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\obj\Debug\Exercicio_7___Aula_2.Form1.resources
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\obj\Debug\Exercicio_7___Aula_2.Properties.Resources.resources
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\obj\Debug\Exercicio 7 - Aula 2.csproj.GenerateResource.cache
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\obj\Debug\Exercicio 7 - Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\obj\Debug\Exercicio 7 - Aula 2.exe
+C:\Users\livia\OneDrive\Projetos_programação\Alura C#\Exercicio 7 - Aula 2\obj\Debug\Exercicio 7 - Aula 2.pdb

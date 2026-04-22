@@ -1,0 +1,10 @@
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\bin\Debug\Exercicio 4 - Aula 2.exe.config
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\bin\Debug\Exercicio 4 - Aula 2.exe
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\bin\Debug\Exercicio 4 - Aula 2.pdb
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\obj\Debug\Exercicio 4 - Aula 2.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\obj\Debug\Exercicio_4___Aula_2.Form1.resources
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\obj\Debug\Exercicio_4___Aula_2.Properties.Resources.resources
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\obj\Debug\Exercicio 4 - Aula 2.csproj.GenerateResource.cache
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\obj\Debug\Exercicio 4 - Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\obj\Debug\Exercicio 4 - Aula 2.exe
+C:\Users\ALUNO\source\repos\Exercicio 4 - Aula 2\obj\Debug\Exercicio 4 - Aula 2.pdb
